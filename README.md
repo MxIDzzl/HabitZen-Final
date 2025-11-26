@@ -1,37 +1,38 @@
-# HabitZen Beta 1.2 (Community)
+# 📱 HabitZen — Beta 1.2 (Community)
 
-Este es el repositorio oficial de **HabitZen**, una aplicación web diseñada para registrar, controlar y mejorar hábitos personales.  
-Incluye funciones para seguimiento de actividades, rachas, notas diarias y visualización de estadísticas.
-
----
-
-## 🚀 Características Principales
-
-### ✔ Registro y Control de Hábitos  
-- Crear, editar y eliminar hábitos.  
-- Marcar diariamente si fueron cumplidos.  
-- Validación para evitar datos inconsistentes.
-
-### 🔥 Seguimiento de Rachas  
-- Días consecutivos cumplidos por hábito.  
-- Indicadores motivacionales y alertas al romper rachas.
-
-### 📝 Agenda / Notas Diarias  
-- Espacio para escribir notas relacionadas con cada día.  
-- Historial almacenado en base de datos.
-
-### 📊 Estadísticas  
-- Progreso del usuario por hábito.  
-- Análisis básico del cumplimiento semanal/mensual.
-
-### 🎨 Diseño Responsivo  
-- Interfaz amigable y moderna.  
-- Soporte para modo claro/oscuro.  
-- Compatible con dispositivos móviles y computadoras.
+HabitZen es una aplicación web diseñada para ayudarte a **crear, organizar y mantener tus hábitos personales** de una forma sencilla, visual y motivadora.  
+Permite registrar actividades, hacer seguimiento de rachas, gestionar notas diarias y visualizar estadísticas básicas sobre tu progreso.
 
 ---
 
-## 📦 Instalación
+## 🌟 Características Principales
+
+### ✔️ Registro y Control de Hábitos
+- Crear, editar y eliminar hábitos personalizados.
+- Marcar cada día si cumpliste o no cada hábito.
+- Validación de datos para evitar información incompleta o corrupta.
+
+### 🔥 Seguimiento de Rachas
+- Visualización de rachas consecutivas por hábito.
+- Indicadores motivadores cuando rompes récords o te acercas a tus metas.
+
+### 📝 Agenda / Notas Diarias
+- Sección para anotar comentarios, planes o recordatorios del día.
+- Historial seguro almacenado en la base de datos.
+
+### 🎨 Diseño Moderno y Adaptativo
+- Interfaz clara, optimizada para móvil y escritorio.
+- Modo claro y modo oscuro.
+- Navegación fluida y diseño amigable.
+
+### 🗄️ Base de Datos con Validación
+- Registro estructurado de usuarios, hábitos, rachas y notas.
+- Validación antes de guardar información.
+- Datos consistentes y consultas confiables.
+
+---
+
+## 🚀 Instalación y Ejecución (Local)
 
 Clona el repositorio:
 
@@ -46,85 +47,46 @@ Instala dependencias:
 npm i
 ```
 
----
-
-## ▶ Ejecutar en Desarrollo
-
 Inicia el servidor de desarrollo:
 
 ```bash
 npm run dev
 ```
 
-Esto iniciará HabitZen en modo local para pruebas.
-
----
-
-## 🏗 Compilar para Producción
-
-Si deseas generar una build optimizada:
+Genera la build de producción:
 
 ```bash
 npm run build
 ```
 
-Los archivos finales se generarán en la carpeta `dist/`.
+---
+
+## 🧩 Tecnologías Utilizadas
+- **React + TypeScript**
+- **Vite**
+- **CSS moderno**
+- **LocalStorage / Backend (dependiendo de implementación futura)**
 
 ---
 
-## 🌐 Despliegue con GitHub Pages
+## 🎯 Objetivo del Proyecto
 
-1. Asegúrate de tener generada la carpeta `dist/` con `npm run build`.
-2. En GitHub, ve a **Settings → Pages**.
-3. Selecciona:
-   - **Source:** Deploy from branch  
-   - **Branch:** `main`  
-   - **Folder:** `/dist`
-4. Guarda los cambios.
+El propósito de HabitZen es ayudar a los usuarios a construir mejores rutinas mediante:
+- Motivación visual  
+- Registro claro del progreso  
+- Estadísticas útiles  
+- Organización diaria  
 
-⚠ *GitHub Pages no soporta directamente proyectos que requieren `npm run dev` porque es un servidor local.*  
-Solo puede servir la **build estática** de tu proyecto.
+Esta app está pensada para crecer con futuros módulos como sincronización en la nube, cuentas de usuario, logros, análisis avanzados y más.
 
 ---
 
-## 📘 Proyecto HabitZen – Descripción General
-
-HabitZen es una aplicación web que busca mejorar el control personal mediante:
-
-- Registro de hábitos diarios  
-- Seguimiento de progreso y rachas  
-- Sección de notas  
-- Validación y almacenamiento estructurado  
-
-Perfecto para estudiantes, trabajadores o cualquier persona que busque mejorar su productividad.
+## 👨‍💻 Autor
+Proyecto desarrollado como parte de una práctica personal para mejorar habilidades en desarrollo frontend y diseño de sistemas.
 
 ---
 
-## 📄 Versión actual
+## 🛠️ Estado del Proyecto
+🚧 **HabitZen Beta 1.2 — En desarrollo activo**  
+Nuevas funciones y optimizaciones serán añadidas con frecuencia.
 
-### HabitZen Beta **1.2 (Community)**  
-> Este paquete contiene el bundle del código fuente para desarrollo local.
-
----
-
-## 🧑‍💻 Contribuciones
-
-Las contribuciones de la comunidad son bienvenidas.  
-Puedes crear issues o pull requests en el repositorio oficial.
-
----
-
-## 🛠 Tecnologías Utilizadas
-
-- TypeScript  
-- React / Vite (dependiendo tu setup actual)  
-- CSS moderno y diseño responsivo  
-- Base de datos / API opcional según implementación
-
----
-
-## 📜 Licencia
-
-Proyecto abierto para uso comunitario. Puedes modificarlo libremente.
-
----
