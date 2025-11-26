@@ -37,7 +37,7 @@ Permite registrar actividades, hacer seguimiento de rachas, gestionar notas diar
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/MxIDzzl/HabitZen
+git clone https://github.com/MxIDzzl/HabitZen-Final.git
 cd HabitZen
 ```
 
