@@ -40,25 +40,11 @@ Clona el repositorio:
 git clone https://github.com/MxIDzzl/HabitZen-Final.git
 cd HabitZen-Final
 ```
-
-Instala dependencias:
-
-```bash
-npm i
-```
-
 Inicia el servidor de desarrollo:
 
 ```bash
 npm run dev
 ```
-
-Genera la build de producción:
-
-```bash
-npm run build
-```
-
 ---
 
 ## 🧩 Tecnologías Utilizadas
