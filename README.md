@@ -38,7 +38,7 @@ Clona el repositorio:
 
 ```bash
 git clone https://github.com/MxIDzzl/HabitZen-Final.git
-cd HabitZen
+cd HabitZen-Final
 ```
 
 Instala dependencias:
