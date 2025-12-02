@@ -1,4 +1,4 @@
-# 📱 HabitZen — Beta 1.2 (Community)
+# 📱 HabitZen
 
 HabitZen es una aplicación web diseñada para ayudarte a **crear, organizar y mantener tus hábitos personales** de una forma sencilla, visual y motivadora.  
 Permite registrar actividades, hacer seguimiento de rachas, gestionar notas diarias y visualizar estadísticas básicas sobre tu progreso.
