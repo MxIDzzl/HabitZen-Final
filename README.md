@@ -63,11 +63,6 @@ Esta app está pensada para crecer con futuros módulos como sincronización en 
 
 ---
 
-## 👨‍💻 Autor
-Proyecto desarrollado como parte de una práctica personal para mejorar habilidades en desarrollo frontend y diseño de sistemas.
-
----
-
 ## 🛠️ Estado del Proyecto
 🚧 **HabitZen Beta 1.2 — En desarrollo activo**  
 Nuevas funciones y optimizaciones serán añadidas con frecuencia.
