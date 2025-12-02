@@ -61,6 +61,5 @@ El propósito de HabitZen es ayudar a los usuarios a construir mejores rutinas m
 ---
 
 ## 🛠️ Estado del Proyecto
-🚧 **HabitZen Beta 1.2 — En desarrollo activo**  
-Nuevas funciones y optimizaciones serán añadidas con frecuencia.
+🚧 **HabitZen Beta 1.2 — En desarrollo activo** 
 
