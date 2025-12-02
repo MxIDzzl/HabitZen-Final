@@ -46,8 +46,7 @@ npm run dev
 ## 🧩 Tecnologías Utilizadas
 - **React + TypeScript**
 - **Vite**
-- **CSS moderno**
-- **LocalStorage / Backend (dependiendo de implementación futura)**
+- **CSS**
 
 ---
 
@@ -58,8 +57,6 @@ El propósito de HabitZen es ayudar a los usuarios a construir mejores rutinas m
 - Registro claro del progreso  
 - Estadísticas útiles  
 - Organización diaria  
-
-Esta app está pensada para crecer con futuros módulos como sincronización en la nube, cuentas de usuario, logros, análisis avanzados y más.
 
 ---
 
