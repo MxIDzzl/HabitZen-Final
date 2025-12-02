@@ -16,10 +16,6 @@ Permite registrar actividades, hacer seguimiento de rachas, gestionar notas diar
 - Visualización de rachas consecutivas por hábito.
 - Indicadores motivadores cuando rompes récords o te acercas a tus metas.
 
-### 📝 Agenda / Notas Diarias
-- Sección para anotar comentarios, planes o recordatorios del día.
-- Historial seguro almacenado en la base de datos.
-
 ### 🎨 Diseño Moderno y Adaptativo
 - Interfaz clara, optimizada para móvil y escritorio.
 - Modo claro y modo oscuro.
